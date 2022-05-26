@@ -1,4 +1,8 @@
 class BirthDay : public Event
 {
-
+	public:
+void show()
+{
+	cout << "nothing";
+}
 };
